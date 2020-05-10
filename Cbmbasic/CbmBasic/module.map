@@ -1,0 +1,4 @@
+module Libcbmbasic [system] {
+  header "Dependencies/cbmbasic/cbmbasic.h"
+  export *
+}
