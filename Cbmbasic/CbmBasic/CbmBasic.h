@@ -3,7 +3,6 @@
 //  CbmBasic
 //
 //  Created by Gregori, Lars on 03.05.20.
-//  Copyright © 2020 Gregori, Lars. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
