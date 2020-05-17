@@ -28,11 +28,11 @@
                                     <action selector="button:" destination="BYZ-38-t0r" eventType="touchUpInside" id="y1I-S7-Z2K"/>
                                 </connections>
                             </button>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="text view" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="XXQ-if-aUI">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="text view" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XXQ-if-aUI">
                                 <rect key="frame" x="20" y="44" width="374" height="375"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBlueColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="backgroundColor" red="0.075839869680000005" green="0.2177141309" blue="0.9686893821" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="textColor" red="0.3491889238" green="0.50166237349999998" blue="0.97260051970000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <fontDescription key="fontDescription" name="C64Pro" family="C64 Pro" pointSize="9"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences" autocorrectionType="no" spellCheckingType="no" returnKeyType="go" smartQuotesType="no"/>
                             </textView>
